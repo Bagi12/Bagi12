@@ -1,8 +1,8 @@
 
 <h1 align="center">Hi 👋, I'm Batuhan Ayyıldız</h1>
-<h3 align="center">Self-Learner in software design and data science . Good observer and practitioner. Hardworking and willing to work in groups. Good at adapting to work with new co-workers. Open to learn new topics.</h3>
+<h3 align="center">Self-Learner in software design . Good observer and practitioner. Hardworking and willing to work in groups. Good at adapting to work with new co-workers. Open to learn new topics.</h3>
 
-- 🌱 I’m currently learning **Image Processing and Signal Analyses**
+- 🌱 I’m currently learning **Java Spring**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
