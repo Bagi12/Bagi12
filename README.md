@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Batuhan Ayyıldız</h1>
-<h3 align="center">Self-Learner in software design . Good observer and practitioner. Hardworking and willing to work in groups. Good at adapting to work with new co-workers. Open to learn new topics.</h3>
+<h3 align="center">Self-Learner in software design and computer vision. Good observer and practitioner. Hardworking and willing to work in groups. Good at adapting to work with new co-workers. Open to learn new topics.</h3>
 
 - 🌱 I’m currently learning **Java Spring Boot**
 
